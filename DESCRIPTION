@@ -1,15 +1,14 @@
 Package: Tidbits
-Title: What the Package Does (One Line, Title Case)
+Title: A set of functions to print sample code for commonly used operations
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jordy",
+           family = "Bernard",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "jordy.bernard@geosyntec.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Description: Just a grab bag of goodies
+License: `use_mit_license()`
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
