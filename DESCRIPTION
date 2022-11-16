@@ -5,11 +5,10 @@ Authors@R:
     person(given = "Jordy",
            family = "Bernard",
            role = c("aut", "cre"),
-           email = "jordy.bernard@geosyntec.com",
+           email = "jwbernard@alaska.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Just a grab bag of goodies
-License: `use_mit_license()`
+Description: Just a grab bag of goodiesLicense: `use_mit_license()`
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2

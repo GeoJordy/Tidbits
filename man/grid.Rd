@@ -2,10 +2,10 @@
 % Please edit documentation in R/grid.R
 \name{grid}
 \alias{grid}
-\title{prints template for creating and navigating about Viewports using grid}
+\title{Getting started with grid viewports template}
 \usage{
 grid()
 }
 \description{
-prints template for creating and navigating about Viewports using grid
+Getting started with grid viewports template
 }

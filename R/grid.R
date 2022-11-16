@@ -1,4 +1,4 @@
-#' prints template for creating and navigating about Viewports using grid
+#' Getting started with grid viewports template
 #' @export
 grid <- function(){
 return(cat(
